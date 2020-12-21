@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">s14990_smb_proj2</string>
+    <string name="channelName">ItemChannelName</string>
+    <string name="channelID">ItemChannelID</string>
+</resources>
